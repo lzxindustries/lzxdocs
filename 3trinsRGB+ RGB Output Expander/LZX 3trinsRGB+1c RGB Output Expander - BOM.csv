@@ -1,0 +1,9 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location
+1,1,-,LZX Industries,LZX-3TA-PCB,LZX Industries,LZX-3TA-PCB,LZX Industries 3trinsRGB+1c RGB Output Expander PCB,-,-,Fabricated,-
+2,3,"C2, C3, C4",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-,Through Hole,PCB Top
+3,1,C1,Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-,Through Hole,PCB Top
+4,1,L1,Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-,-,Through Hole,PCB Top
+5,3,"R3, R8, R13",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R,-,Through Hole,PCB Top
+6,6,"R2, R4, R7, R9, R12, R14",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-,Through Hole,PCB Top
+7,3,"J1, J2, J3",-,-,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-,-,Through Hole,PCB Top
+8,3,"U1, U2, U3",Texas Instruments,OPA340PA,Mouser,595-OPA340PA,Operational Amplifiers - Op Amps Single-Supply Rail-to-Rail,-,DIP8,Through Hole,PCB Top

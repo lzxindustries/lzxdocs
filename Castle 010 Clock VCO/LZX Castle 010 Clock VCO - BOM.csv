@@ -1,0 +1,28 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location
+1,6,"C1, C3, C4, C5, C8, C9",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-0,Through Hole,PCB Top
+2,3,"C2, C6, C10",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-0,Through Hole,PCB Top
+3,1,C14,TDK ,FK16C0G1H104J ,Mouser,810-FK16C0G1H104J,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts C0G +/-5% ,,-0,Through Hole,PCB Top
+4,1,C11,Vishay / BC Components ,K102J15C0GF53L2 ,Mouser,594-K102J15C0GF53L2 ,Multilayer Ceramic Capacitors MLCC - Leaded 1000pF 50volts 5% C0G 2.5mm LS ,1n,-0,Through Hole,PCB Top
+5,1,C12,Vishay / Sprague,1C10C0G470J050B ,Mouser,75-1C10C0G470J050B ,Multilayer Ceramic Capacitors MLCC - Leaded 47pF 50volts C0G 5% 5.0mm L/S ,47p,-0,Through Hole,PCB Top
+6,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,-0,DO-41,Through Hole,PCB Top
+7,3,"D3, D4, D5",ON Semiconductor / Fairchild ,1N4148 ,Mouser,512-1N4148 ,"Diodes - General Purpose, Power, Switching 100V Io/200mA ",-0,DO-35,Through Hole,PCB Top
+8,2,"FB1, FB2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-0,-0,Through Hole,PCB Top
+9,1,J1,-0,-0,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-0,-0,Through Hole,PCB Top
+10,3,"J2, J3, J4",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-0,-0,Through Hole,PCB Top / Frontpanel
+11,2,"Q1, Q2",ON Semiconductor / Fairchild ,2N3904BU ,Mouser,512-2N3904BU ,Bipolar Transistors - BJT NPN Transistor General Purpose ,-0,TO-92,Through Hole,PCB Top
+12,2,"R1, R14",KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4DCT52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K,-0,Through Hole,PCB Top
+13,2,"R2, R18",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499,-0,Through Hole,PCB Top
+14,4,"R3, R13, R17, R19",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-0,Through Hole,PCB Top
+15,2,"R4, R16",KOA Speer,MF1/4DCT52R3901F,Mouser,660-MF1/4DCT52R3901F ,Metal Film Resistors - Through Hole 3.9Kohms 1% 100PPM,3.9K,-0,Through Hole,PCB Top
+16,5,"R5, R8, R10, R11, R12",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,-0,Through Hole,PCB Top
+17,2,"R7, R20",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 4.99Kohms 1% 100PPM,4.99K,-0,Through Hole,PCB Top
+18,1,R15,KOA Speer,MF1/4DCT52R4702F,Mouser,660-MF1/4DCT52R4702F,Metal Film Resistors - Through Hole 47Kohms 1% 100PPM,47K,-0,Through Hole,PCB Top
+19,1,R21,Yageo ,MFR-25FRF52-4M7 ,Mouser,603-MFR-25FRF52-4M7 ,Metal Film Resistors - Through Hole 4.7M OHM 1/4W 1% ,4.7M,-0,Through Hole,PCB Top
+20,2,"R6-CV, R9-Freq",-0,-0,Thonk,Mech_Pot_Alpha,Right Angle B10K Alpha 9mm Potentiometer,B10K,-0,Through Hole,PCB Top / Frontpanel
+21,1,S1,E-Switch ,100SP1T1B1M2QEH ,Mouser,612-100-A1121 ,Toggle Switches SPDT ON-ON PC MNT ,-0,-0,Through Hole,PCB Top / Frontpanel
+22,1,S2,E-Switch ,100SP3T4B1M1QEH,Mouser,612-100SP3T4B1M1Q ,Toggle Switches SPDT ON-OFF-ON SLDR ,-0,-0,Through Hole,PCB Top / Frontpanel
+23,1,U1,ON Semiconductor / Fairchild ,MC78L05ABPX ,Mouser,512-MC78L05ABPX,Linear Voltage Regulators Pos Voltage Reg 3Term 0.1a ,-0,TO-92,Through Hole,PCB Top
+24,1,U2,Texas Instruments,CD4046BE,Mouser,595-CD4046BE ,Phase Locked Loops - PLL PLL w/ VCO ,-0,DIP-16,Through Hole,PCB Top
+25,2,"U3, U4",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",-0,DIP-8,Through Hole,PCB Top
+26,1,-0,LZX Industries,LZX-CSTL2-PCB,LZX Industries,LZX-CSTL2-PCB,LZX Industries Castle 010 Clock VCO PCB,-0,-0,Fabricated,-0
+27,1,-0,LZX Industries,LZX-CSTL2-FPN,LZX Industries,LZX-CSTL2-FPN,LZX Industries Castle 010 Clock VCO Frontpanel,-0,-0,Fabricated,-0

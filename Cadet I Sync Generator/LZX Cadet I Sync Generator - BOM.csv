@@ -1,0 +1,37 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location,Cost Each,Cost Ext
+1,1,-,LZX Industries,LZX-C1-PCB,LZX Industries,LZX-C1-PCB,LZX Industries Cadet I Sync Generator PCB,-,-,Fabricated,-,14.99,14.99
+2,1,-,LZX Industries,LZX-C1-FPN,LZX Industries,LZX-C1-FPN,LZX Industries Cadet I Sync Generator Frontpanel,-,-,Fabricated,-,3.86,3.86
+3,1,C1,Vishay / Sprague,1C10Z5U334M050B ,Mouser,75-1C10Z5U334M050B ,Multilayer Ceramic Capacitors MLCC - Leaded 0.33uF 50volts Z5U 20% 2.5mm L/S,330 n,-,Through Hole,PCB Top,0.26,0.26
+4,13,"C3, C4, C5, C7, C8, C9, C10, C11, C13, C14, C15, C16, C22",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-,Through Hole,PCB Top,0.1,1.3
+5,2,"C2, C6",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-,Through Hole,PCB Top,0.24,0.48
+6,2,"C17, C19",Vishay / BC Components,K102K15X7RH53L2,Mouser,594-K102K15X7RH53L2,Multilayer Ceramic Capacitors MLCC - Leaded 1000pF 100volts 10% X7R 2.5mm LS,1000 p,-,Through Hole,PCB Top,0.1,0.2
+7,1,C18,Xicon,21RD747-RC,Mouser,21RD747-RC,Multilayer Ceramic Capacitors MLCC - Leaded 47pF 50volts C0G 5% 2.5mm L/S,47 p,-,Through Hole,PCB Top,0.1,0.1
+8,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,-,-,Through Hole,PCB Top,0.16,0.32
+9,2,"FB1, FB2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-,-,Through Hole,PCB Top,0.13,0.26
+10,6,"R2, R5, R16, R17, R20, R23",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R,-,Through Hole,PCB Top,0.12,0.72
+11,1,R10,KOA Speer,MF1/4DCT52R4992F,Mouser,660-MF1/4DCT52R4992F,Metal Film Resistors - Through Hole 1/4W 49.9K ohm 1% 500 OHM 1%,49.9K,-,Through Hole,PCB Top,0.12,0.12
+12,3,"R1, R3, R15",KOA Speer,MF1/4DCT52R3921F,Mouser,660-MF1/4DCT52R3921F,Metal Film Resistors - Through Hole 1/4W 3.92K ohm 1% 4.99K OHM 1%,3.92K,-,Through Hole,PCB Top,0.12,0.36
+13,1,R9,KOA Speer,MF1/4DCT52R6803F,Mouser,660-MF1/4DCT52R6803F,Metal Film Resistors - Through Hole 680Kohms 1% 100PPM,680K,-,Through Hole,PCB Top,0.12,0.12
+14,8,"R4, R6, R11, R12, R14, R18, R26, R28",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-,Through Hole,PCB Top,0.12,0.96
+15,2,"R8, R19",KOA Speer,MF1/4DCT52R75R0F,Mouser,660-MF1/4DCT52R75R0F,Metal Film Resistors – Through Hole 1/4W 75 ohm 1% ,75R,-,Through Hole,PCB Top,0.12,0.24
+16,4,"R7, R21, R22, R24",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,-,Through Hole,PCB Top,0.12,0.48
+17,1,R13,TE Connectivity / Holsworthy,1623934-1,Mouser,279-1623934-1,Metal Film Resistors - Through Hole 0Ohm 1/4W LINK,0R,-,Through Hole,PCB Top,0.1,0.1
+18,2,"U1, U2",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",-,DIP8,Through Hole,PCB Top,3.81,7.62
+19,1,U3,STMicroelectronics,L7805CV,Mouser,511-L7805CV,Linear Voltage Regulators 5.0V 1.0A Positive ,-,TO220,Through Hole,PCB Top,0.43,0.43
+20,1,U5,Atmel,ATMEGA88A-PU,Mouser,556-ATMEGA88A-PU,8-bit Microcontrollers - MCU AVR 8KB FLSH 512B EE 1KB SRAM-20MHz,-,DIP28,Through Hole,PCB Top,2.62,2.62
+21,1,U6,Texas Instruments,LM1881N/NOPB,Mouser,926-LM1881N/NOPB,Video ICs Video Sync Separator,-,DIP8,Through Hole,PCB Top,2.93,2.93
+22,1,U7,Texas Instruments,SN74HC14N,Mouser,595-SN74HC14N,Inverters Hex Schmitt-Trigger ,-,DIP14,Through Hole,PCB Top,0.54,0.54
+23,1,U8,Texas Instruments,CD74HC4538E,Mouser,595-CD74HC4538E,Monostable Multivibrator Dual Retrig Mono ,-,DIP16,Through Hole,PCB Top,0.73,0.73
+24,1,U9,Texas Instruments,CD74HC4046AE,Mouser,595-CD74HC4046AE,Phase Locked Loops - PLL PLL w/ VCO,-,DIP16,Through Hole,PCB Top,0.61,0.61
+25,1,X1,Citizen Finedevice Co Ltd,CSX750VCB13.500M-UT,DigiKey,300-8162-1-ND,OSC VCXO 13.5MHZ CMOS SMD,-,-,SMT,PCB Top,3.32,3.32
+26,3,"J2, J4, J6",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-,-,Through Hole,PCB Top / Frontpanel,0.59,1.77
+27,1,J9,-,-,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-,-,Through Hole,PCB Top,0.25,0.25
+28,1,J1,-,-,Futurlec,IDCMH14,14 Pin Shrouded Male Headers IDC,-,-,Through Hole,PCB Top,0.25,0.25
+29,1,J10,-,-,Futurlec,HEADD6,"6 Pin .100"" St. Male Double Headers",-,-,Through Hole,PCB Top,0.12,0.12
+30,2,"J3, J5",CUI,RCJ-044,Mouser,490-RCJ-044 ,"RCA Phono Connectors, Right Angle, Yellow",-,-,Through Hole,PCB Top,1.77,3.54
+31,1,S1,Mountain Switch,10TF230,Mouser,10TF230,Toggle Switches SPDT ON-ON RT ANGLE ,-,-,Through Hole,PCB Top / Frontpanel,3.86,3.86
+32,1,M1,Keystone,621,Mouser,534-621,Mounting Hardware THRD BRKT STL Z PL,-,-,Mechanical,PCB Top / Frontpanel,0.31,0.31
+33,1,-,-,-,Erthenvar,Ribbon Cable - 16 to 16 ,16 Pin IDC EuroRack Power Cable,-,-,Accessories,-,1.75,1.75
+34,2,-,-,-,McMaster-Carr,90272A106,"Zinc-Plated Steel Pan Head Phillips Machine Screw, 4-40 Thread, 1/4"" Length",-,-,Mechanical,PCB Bottom / Frontpanel / M1,0.02,0.04
+35,3,-,-,-,Thonk,Knurled Nuts,Knurled Nuts for PJ302M Jacks,-,-,Mechanical,Frontpanel,0.05,0.15
+Totals,76,,,,,,,,,,,,55.71

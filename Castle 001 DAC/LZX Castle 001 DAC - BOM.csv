@@ -1,0 +1,14 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location
+1,2,"C2, C6",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-0,Through Hole,PCB Top
+2,2,"C3, C7",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-0,Through Hole,PCB Top
+3,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,-0,DO-41,Through Hole,PCB Top
+4,2,"FB1, FB2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-0,-0,Through Hole,PCB Top
+5,8,"J1, J2, J3, J4, J5, J6, J7, J8",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-0,-0,Through Hole,PCB Top / Frontpanel
+6,1,J10,-0,-0,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-0,-0,Through Hole,PCB Top
+7,2,"R1, R15",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-0,Through Hole,PCB Top
+8,2,"R2, R16",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499,-0,Through Hole,PCB Top
+9,8,"R3, R4, R5, R6, R7, R8, R11, R14",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,-0,Through Hole,PCB Top
+10,4,"R9, R10, R12, R13",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 4.99Kohms 1% 100PPM,4.99K,-0,Through Hole,PCB Top
+11,1,U2,Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",-0,DIP-8,Through Hole,PCB Top
+12,1,-0,LZX Industries,LZX-CSTL1-PCB,LZX Industries,LZX-CSTL1-PCB,LZX Industries Castle 001 DAC PCB,-0,-0,Fabricated,-0
+13,1,-0,LZX Industries,LZX-CSTL1-FPN,LZX Industries,LZX-CSTL1-FPN,LZX Industries Castle 001 DAC Frontpanel,-0,-0,Fabricated,-0

@@ -1,0 +1,24 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location
+1,4,"C1, C2, C3, C15",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-0,Through Hole,PCB Top
+2,11,"C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-0,Through Hole,PCB Top
+3,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,-0,DO-41,Through Hole,PCB Top
+4,8,"D3, D4, D5, D6, D7, D8, D9, D10",STMicroelectronics,1N5711,Mouser,511-1N5711,Schottky Diodes & Rectifiers 15mA 70 Volt,-0,DO-35,Through Hole,PCB Top
+5,2,"FB1, FB2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-0,-0,Through Hole,PCB Top
+6,8,"J1, J2, J3, J4, J6, J7, J8, J9",Wenzhou QingPu,PJ302M,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-0,-0,Through Hole,PCB Top / Frontpanel
+7,1,J5,-0,-0,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-0,-0,Through Hole,PCB Top
+8,8,"R1, R4, R6, R7, R19, R21, R23, R25",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499,-0,Through Hole,PCB Top
+9,16,"R2, R3, R8, R9, R10, R11, R13, R14, R15, R26, R27, R28, R29, R30, R31, R33",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-0,Through Hole,PCB Top
+10,4,"R5, R12, R32, R34",KOA Speer,MF1/4DCT52R3901F,Mouser,660-MF1/4DCT52R3901F ,Metal Film Resistors - Through Hole 3.9Kohms 1% 100PPM,3.9K,-0,Through Hole,PCB Top
+11,1,R16,KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,-0,Through Hole,PCB Top
+12,5,"R17, R18, R20, R22, R24",KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4DCT52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K,-0,Through Hole,PCB Top
+13,4,"U1, U3, U5, U7",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",-0,DIP-8,Through Hole,PCB Top
+14,1,U2,ON Semiconductor / Fairchild ,MC78L05ABPX ,Mouser,512-MC78L05ABPX ,Linear Voltage Regulators Pos Voltage Reg 3Term 0.1a ,-0,TO-92,Through Hole,PCB Top
+15,1,U4,Texas Instruments,TL072IP,Mouser,595-TL072IP,Operational Amplifiers - Op Amps Dual JFET In Low N,-0,DIP8,Through Hole,PCB Top
+16,1,U6*,Texas Instruments ,CD4070BE ,Mouser,595-CD4070BE ,Logic Gates Quad Exclusive,-0,DIP-14,Through Hole,PCB Top
+17,1,-0,LZX Industries,LZX-CSTL5-PCB,LZX Industries,LZX-CSTL5-PCB,LZX Industries Castle 101 Quad Gate PCB,-0,-0,Fabricated,-0
+18,1,-0,LZX Industries,LZX-CSTL5-FPN,LZX Industries,LZX-CSTL5-FPN,LZX Industries Castle 101 Quad Gate Frontpanel,-0,-0,Fabricated,-0
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,*U6 Alternates,,,,,,,,,
+,1,U6,Texas Instruments ,CD4011BE ,Mouser,595-CD4011BE ,Logic Gates Quad 2-Input NAND,-0,DIP-14,Through Hole,PCB Top
+,1,U6,Texas Instruments ,CD4001BE,Mouser,595-CD4001BE ,Logic Gates Quad 2-Input NOR,-0,DIP-13,Through Hole,PCB Top

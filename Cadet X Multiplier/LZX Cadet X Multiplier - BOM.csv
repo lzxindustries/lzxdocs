@@ -1,0 +1,25 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Vendor P/N,Description,Value,Package,Part Type,Assembly Location,Cost Each,Cost Ext
+1,1,-,LZX Industries,LZX-C10-PCB,LZX Industries,LZX-C10-PCB,LZX Industries Cadet X Multiplier PCB,-,-,Fabricated,-,10.08,10.08
+2,1,-,LZX Industries,LZX-C10-FPN,LZX Industries,LZX-C10-FPN,LZX Industries Cadet X Multiplier Frontpanel,-,-,Fabricated,-,3.86,3.86
+3,8,"C1, C3, C4, C5, C7, C8, C9, C10",Vishay / Sprague,1C10Z5U104M050B,Mouser,75-1C10Z5U104M050B,Multilayer Ceramic Capacitors MLCC - Leaded 0.1uF 50volts Z5U 20% 2.5mm L/S,0.1 u,-,Through Hole,PCB Top,0.1,0.6
+4,2,"C2, C6",Panasonic,ECE-A1VKS100,Mouser,667-ECE-A1VKS100,Aluminum Electrolytic Capacitors - Leaded 10UF 35V KS RADIAL,10 u,-,Through Hole,PCB Top,0.24,0.48
+5,2,"D1, D2",Fairchild Semiconductor,1N4001,Mouser,512-1N4001,Rectifiers Vr/50V Io/1A T/R,-,-,Through Hole,PCB Top,0.16,0.32
+6,2,"L1, L2",Fair-Rite,2743001111,Mouser,623-2743001111,"EMI Filter Beads, Chips & Arrays 43 BEAD ON LEAD Z=68 OHM @ 100MHz",-,-,Through Hole,PCB Top,0.13,0.26
+7,3,"R1, R12, R19",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R,-,Through Hole,PCB Top,0.12,0.48
+8,2,"R2, R18",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 1/4W 4.99K ohm 1% 4.99K OHM 1%,4.99K,-,Through Hole,PCB Top,0.12,0.24
+9,2,"R3, R14",KOA Speer,MF1/4DCT52R1003F2,Mouser,660-MF1/4DCT52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K,-,Through Hole,PCB Top,0.12,0.36
+10,3,"R5, R7, R13",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-,Through Hole,PCB Top,0.12,0.24
+11,1,R10,KOA Speer,MF1/4DCT52R6650F,Mouser,660-MF1/4DCT52R6650F,Metal Film Resistors � Through Hole 1/4W 665 ohm 1% ,665R,-,Through Hole,PCB Top,0.12,0.24
+12,5,"R8, R9, R11, R21, R22",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,-,Through Hole,PCB Top,0.12,0.6
+13,3,"R6, R16, R17",KOA Speer,MF1/4DCT52R1501F,Mouser,660-MF1/4DCT52R1501F,Metal Film Resistors - Through Hole 1/4W 1.5K ohm 1% 1.5K OHM 1%,1.5K,-,Through Hole,PCB Top,0.12,0.24
+14,2,"R4, R20",-,-,Thonk,Mech_Pot_Alpha,Right Angle B10K Alpha 9mm Potentiometer,B10K,-,Through Hole,PCB Top / Frontpanel,1.95,3.9
+16,1,U1,Texas Instruments,TL072IP,Mouser,595-TL072IP,Operational Amplifiers - Op Amps Dual JFET In Low N,-,DIP8,Through Hole,PCB Top,0.65,0.65
+17,1,U2,Linear Technology,LT1251CN#PBF,Linear Technology,LT1251CN#PBF,40MHz Video Fader and DC Gain Controlled Amplifier,-,DIP16,Through Hole,PCB Top,7.33,7.33
+18,2,"U3, U5",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",-,DIP8,Through Hole,PCB Top,3.86,3.86
+19,1,U4,Texas Instruments,TL431BQLPR,Mouser,595-TL431BQLPR,Voltage References Adjustable Precision Shunt Regulator,-,TO-92-3,Through Hole,PCB Top,0.65,0.65
+20,3,"J1, J3, J4",-,-,Thonk,MECH_JK_PJ302M,"Right angled 3.5mm Jack Sockets w/Knurled Nuts, No Washers",-,-,Through Hole,PCB Top / Frontpanel,0.59,2.36
+21,1,J5,-,-,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-,-,Through Hole,PCB Top,0.25,0.25
+22,1,-,-,-,Erthenvar,Ribbon Cable - 16 to 16 ,16 Pin IDC EuroRack Power Cable,-,-,Accessories,-,1.75,1.75
+23,2,-,-,-,Thonk,Davies_1900h,Davies 1900H Clone Red (6.35mm Round Shaft),-,-,Control Knobs,"R4, R20 shafts",0.9,1.8
+24,3,-,-,-,Thonk,Knurled Nuts,Knurled Nuts for PJ302M Jacks,-,-,Mechanical,Frontpanel,0.05,0.2
+25,1,S1,Mountain Switch,10TF230,Mouser,10TF230,Toggle Switches SPDT ON-ON RT ANGLE ,-,-,Through Hole,PCB Top / Frontpanel,,40.75
