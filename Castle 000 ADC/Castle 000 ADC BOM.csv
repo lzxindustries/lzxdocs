@@ -8,8 +8,8 @@ Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Ve
 7,1,J5,-0,-0,Futurlec,IDCMH16 ,16 Pin Shrouded Male Headers IDC,-0,-0,Through Hole,PCB Top
 8,3,"R1, R4, R16",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K,-0,Through Hole,PCB Top
 9,4,"R2, R5, R8, R40",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499,-0,Through Hole,PCB Top
-10,1,R3,KOA Speer,MF1/4DCT52R4992F,Mouser,660-MF1/4DCT52R4992F,Metal Film Resistors - Through Hole 49.9Kohms 1% 100PPM,49.9K,-0,Through Hole,PCB Top
-11,3,"R6, R10, R18",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 4.99Kohms 1% 100PPM,4.99K,-0,Through Hole,PCB Top
+10,2,"R3, R10",KOA Speer,MF1/4DCT52R4992F,Mouser,660-MF1/4DCT52R4992F,Metal Film Resistors - Through Hole 49.9Kohms 1% 100PPM,49.9K,-0,Through Hole,PCB Top
+11,2,"R6, R18",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 4.99Kohms 1% 100PPM,4.99K,-0,Through Hole,PCB Top
 12,32,"R7, R9, R12, R13, R14, R15, R17, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R41, R43, R45, R47, R48",KOA Speer,MF1/4DCT52R1001F,Mouser,660-MF1/4DCT52R1001F,Metal Film Resistors - Through Hole 1Kohms 1% 100PPM,1K,-0,Through Hole,PCB Top
 13,1,R39,KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4DCT52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K,-0,Through Hole,PCB Top
 14,3,"R42, R44, R46",KOA Speer,MF1/4DCT52R3901F,Mouser,660-MF1/4DCT52R3901F ,Metal Film Resistors - Through Hole 3.9Kohms 1% 100PPM,3.9K,-0,Through Hole,PCB Top
