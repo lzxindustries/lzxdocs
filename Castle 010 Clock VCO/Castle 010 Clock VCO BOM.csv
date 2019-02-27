@@ -20,7 +20,7 @@ Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,Ve
 19,1,R21,Yageo ,MFR-25FRF52-4M7 ,Mouser,603-MFR-25FRF52-4M7 ,Metal Film Resistors - Through Hole 4.7M OHM 1/4W 1% ,4.7M,-0,Through Hole,PCB Top
 20,2,"R6-CV, R9-Freq",-0,-0,Thonk,Mech_Pot_Alpha,Right Angle B10K Alpha 9mm Potentiometer,B10K,-0,Through Hole,PCB Top / Frontpanel
 21,1,S1,E-Switch ,100SP1T1B1M2QEH ,Mouser,612-100-A1121 ,Toggle Switches SPDT ON-ON PC MNT ,-0,-0,Through Hole,PCB Top / Frontpanel
-22,1,S2,E-Switch ,100SP3T4B1M1QEH,Mouser,612-100SP3T4B1M1Q ,Toggle Switches SPDT ON-OFF-ON SLDR ,-0,-0,Through Hole,PCB Top / Frontpanel
+22,1,S2,E-Switch ,100SP3T1B1M1QEH,Mouser,612-100-C1111 ,Toggle Switches SPDT ON-OFF-ON SLDR ,-0,-0,Through Hole,PCB Top / Frontpanel
 23,1,U1,ON Semiconductor / Fairchild ,MC78L05ABPX ,Mouser,512-MC78L05ABPX,Linear Voltage Regulators Pos Voltage Reg 3Term 0.1a ,-0,TO-92,Through Hole,PCB Top
 24,1,U2,Texas Instruments,CD4046BE,Mouser,595-CD4046BE ,Phase Locked Loops - PLL PLL w/ VCO ,-0,DIP-16,Through Hole,PCB Top
 25,2,"U3, U4",Texas Instruments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"Operational Amplifiers - Op Amps Dual High Speed,Low Pwr Amp",-0,DIP-8,Through Hole,PCB Top
