@@ -4,8 +4,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'LZX Docs',
-  tagline: 'Video synthesizers',
-  favicon: 'img/favicon.ico',
+  tagline: 'Creative instruments for video synthesis and analog image processing.',
+  favicon: 'img/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://lzxindustries.github.io',
@@ -59,9 +59,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'LZX Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'LZX Docs Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -73,7 +73,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/lzxindustries/lzxdocs',
           label: 'GitHub',
           position: 'right',
         },
@@ -95,17 +95,9 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+              href: 'https://discordapp.com/invite/lzxindustries',
+            }
           ],
         },
         {
@@ -117,12 +109,12 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/lzxindustries/lzxdocs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} LZX Industries LLC.`,
     },
     prism: {
       theme: prismThemes.github,
