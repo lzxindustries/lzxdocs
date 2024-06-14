@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklzxdocs=self.webpackChunklzxdocs||[]).push([[273],{3280:e=>{e.exports=JSON.parse('{"tags":[{"label":"chromagnon","permalink":"/lzxdocs/blog/tags/chromagnon","description":"Topics related to the Chromagnon video synthesizer.","count":1}]}')}}]);

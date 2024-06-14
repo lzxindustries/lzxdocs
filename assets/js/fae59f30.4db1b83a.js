@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklzxdocs=self.webpackChunklzxdocs||[]).push([[790],{1351:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/lzxdocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

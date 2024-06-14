@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklzxdocs=self.webpackChunklzxdocs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Chromagnon Box","permalink":"/lzxdocs/blog/chromagnon-box","unlisted":false}]}')}}]);
