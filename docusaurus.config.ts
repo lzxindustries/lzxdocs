@@ -49,11 +49,20 @@ const config: Config = {
           //   'https://github.com/lzxindustries/lzxdocs/tree/main/packages/create-docusaurus/templates/shared/',
         },
         pages: {
-          // showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          // editUrl:
-          //   'https://github.com/lzxindustries/lzxdocs/tree/main/packages/create-docusaurus/templates/shared/',
+          path: 'src/pages',
+          routeBasePath: '',
+          include: ['**/*.{js,jsx,ts,tsx,md,mdx}'],
+          exclude: [
+            '**/_*.{js,jsx,ts,tsx,md,mdx}',
+            '**/_*/**',
+            '**/*.test.{js,jsx,ts,tsx}',
+            '**/__tests__/**',
+          ],
+          mdxPageComponent: '@theme/MDXPage',
+          // remarkPlugins: [require('./my-remark-plugin')],
+          rehypePlugins: [],
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
         },
         theme: {
           customCss: './src/css/custom.css',
